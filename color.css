@@ -1,0 +1,25 @@
+.one{
+    background-color: rgb(215, 229, 234);
+    border-radius: 1rem;
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    padding: 10px;
+    padding-right: 100px;
+
+}
+.two{
+    width: 280px;
+    img{
+        width: 280px;
+        border-radius: 1em;
+    }
+    padding-right: 50px;
+    border-radius: 1rem;
+    background-color: aliceblue;
+    margin-top: 100px;
+    padding: 10px;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+}
